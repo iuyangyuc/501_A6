@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">501_A6</string>
+    <string name="google_maps_key">AIzaSyAkvB8fxK6H6mD9dvSS5ktcpZAlGXG3d2U</string>
+    <string name="location_permission_rationale">Location permission is required to center the map on you.</string>
+    <string name="fetching_location">Fetching your location\u2026</string>
 </resources>
