@@ -1,6 +1,6 @@
 <resources>
     <string name="app_name">501_A6</string>
-    <string name="maps_api_key">YOUR_API_KEY_HERE</string>
+    <string name="maps_api_key">AIzaSyAkvB8fxK6H6mD9dvSS5ktcpZAlGXG3d2U</string>
     <string name="map_screen_title">Trail &amp; Park Map</string>
     <string name="trail_info">River Walk Trail: 2.5 miles along the canyon ridge. Tap the green line for details.</string>
     <string name="park_info">Maple Park: Picnic tables, restrooms, and a scenic overlook. Tap the shaded area for details.</string>
